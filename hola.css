@@ -1,0 +1,19 @@
+/* Botón para alternar la barra lateral */
+#toggle-sidebar-button {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    z-index: 1000;
+    background-color: #7289da;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    font-size: 12px;
+    cursor: pointer;
+}
+
+/* Ocultar la barra lateral */
+.sidebar-2K8pFh.hidden {
+    display: none !important;
+}
